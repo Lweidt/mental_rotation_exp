@@ -37,7 +37,7 @@ const intro = magpieViews.view_generator("intro", {
 const instructions = magpieViews.view_generator("instructions", {
   trials: 1,
   name: 'instructions',
-  title: 'General Instructions',
+  title: 'I CHANGED SOMETHING HERE',
   text: `As stated before, the task of the experiment is to judge whether two 3-D objects are the same or not. Your decision has to be indicated by a key press.
         This is done according to the following key-response mapping:
             <br />
